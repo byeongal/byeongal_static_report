@@ -37,4 +37,4 @@ If you want to contact me, please send me an email to my email address(corea_kyj
 * Ps. I can understand only English and Korean and prefer to use Korean.
 
 ## License
-[![License](https://img.shields.io/:license-gpl3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
